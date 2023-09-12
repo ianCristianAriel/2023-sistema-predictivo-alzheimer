@@ -6,20 +6,20 @@ En proceso
 
 ### Estructura de directorios y archivos resultantes
 
-    2023 - sistema predictivo de Alzheimer
+    Sistema predictivo de Alzheimer
         │
         ├── datos
-        │   ├── procesados      <-CSV proesados.
-        │   └── brutos           <- CSV originales.
+        │   ├── procesados        <-CSV proesados.
+        │   └── brutos            <- CSV originales.
         │
-        ├── notebooks          <- Notebooks y/o Scripts.
-        │   └── limpios        <- Fraccionados por etapa del proyecto.
+        ├── notebooks             <- Notebooks y/o Scripts.
+        │   └── limpios           <- Fraccionados por etapa del proyecto.
         |
-        ├── .gitignore         <- Arhivos para ignorar por `git`.
+        ├── .gitignore            <- Arhivos para ignorar por `git`.
         │
         ├── requerimientos.txt    <- Paquetes y dependencias.
         │
-        └── README.md          <- Detalles por escrito.
+        └── README.md             <- Detalles por escrito.
 
 ### Funciones y aplicaciones:
 
