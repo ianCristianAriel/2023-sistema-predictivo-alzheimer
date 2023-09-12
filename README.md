@@ -46,4 +46,7 @@ En proceso
 - [@IanCristianAriel](https://github.com/ianCristianAriel)
 
 ### Licencia
-Proyecto original: [arpy8](https://github.com/arpy8) - Email: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com) - Linkedin: [Arpit Sengar](https://www.linkedin.com/in/arpitsengar/)
+Proyecto original: 
+- - GitHub: [arpy8](https://github.com/arpy8)
+- - Email: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)
+- - Linkedin: [Arpit Sengar](https://www.linkedin.com/in/arpitsengar/)
