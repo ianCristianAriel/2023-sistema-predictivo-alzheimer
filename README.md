@@ -1,5 +1,5 @@
-# Proyecto Finalizacion - G3 
-![imagen](https://raw.githubusercontent.com/ianCristianAriel/proc_datos_proyecto_final_G3/main/imagen.png)
+# Sistema predictivo Alzheimer
+![imagen](../imagenes/portada.png)
 
 ### Estado del proyecto:
 En proceso
