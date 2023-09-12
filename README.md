@@ -1,5 +1,5 @@
 # Sistema predictivo Alzheimer
-![imagen](../imagenes/portada.png)
+![imagen](./imagenes/portada.png)
 
 ### Estado del proyecto:
 En proceso
