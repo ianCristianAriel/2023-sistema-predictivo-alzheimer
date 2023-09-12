@@ -48,5 +48,4 @@ pip3 install -r requerimientos.txt
 - [IanCristianAriel](https://github.com/ianCristianAriel)
 
 ### Licencia
-  - Proyecto original por: [arpy8](https://github.com/arpy8)
-  - Contacto: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)
+  - Proyecto original por: [arpy8](https://github.com/arpy8) -> Contacto: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)
