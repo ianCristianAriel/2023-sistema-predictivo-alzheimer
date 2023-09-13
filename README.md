@@ -1,5 +1,6 @@
 # Sistema Predictivo para el Alzheimer
-![Portada del Proyecto](./imagenes/portada.png)
+
+<!-- ![Portada del Proyecto](./imagenes/portada.png) -->
 
 ## Estado del Proyecto
 Actualmente en desarrollo.
