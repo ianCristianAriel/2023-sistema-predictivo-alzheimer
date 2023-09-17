@@ -39,13 +39,13 @@ pip3 install -r requerimientos.txt
 ```
 
 ### Personas Desarrolladoras del Proyecto:
-- [Francisco-B07](https://github.com/Francisco-B07)
+
+- [goncor](https://github.com/GonCor)
+- [tomasescobar25](https://github.com/tomasescobar25)
+- [agustinar](https://github.com/agustinarr)
 - [IanCristianAriel](https://github.com/ianCristianAriel)
 - [ClaudineMeyer](https://github.com/ClaudineMeyer)
-- [tomasescobar25](https://github.com/tomasescobar25)
-- [goncor](https://github.com/GonCor)
-- [agustinar](https://github.com/agustinarr)
-
+- [Francisco-B07](https://github.com/Francisco-B07)
 
 ### Licencia
   - Proyecto original por: [arpy8](https://github.com/arpy8) -> Contacto: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)
