@@ -48,4 +48,4 @@ pip3 install -r requerimientos.txt
 - [Francisco-B07](https://github.com/Francisco-B07)
 
 ### Licencia
-  - Proyecto original por: [arpy8](https://github.com/arpy8) -> Contacto: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)
+  - Proyecto original por: [arpy8](https://github.com/arpy8/Alzheimers_Prediction_System) -> Contacto: [arpitsengar99@gmail.com](mailto:arpitsengar99@gmail.com)
