@@ -1,7 +1,7 @@
 <!-- ![Portada del Proyecto](./imagenes/portada.png) -->
 
 ## Estado del Proyecto
-- **Finalizado**
+**Finalizado**
 
 ## Estructura de Directorios y Archivos Resultantes
 
