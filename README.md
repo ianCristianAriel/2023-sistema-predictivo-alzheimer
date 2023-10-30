@@ -23,7 +23,14 @@ Actualmente en desarrollo.
 
 
 ## Funciones y Aplicaciones
-- Por definir
+- Preparar correctamente el set de datos que se utilizará como muestra de entrenamiento.
+
+- Realizar un análisis descriptivo de los datos utilizados
+
+- Utilizar gráficos para visualizar una mayor compresión de los datos de entrenamiento.
+
+- Evaluar los modelos de Machine Learning utilizados seleccionando aquel con mayor precisión. 
+
 
 ## Tecnologías Utilizadas
 - Python
