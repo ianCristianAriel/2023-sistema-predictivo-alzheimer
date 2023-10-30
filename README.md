@@ -23,14 +23,8 @@
 
 
 ## Funciones y Aplicaciones
-- Preparar correctamente el set de datos que se utilizará como muestra de entrenamiento.
-
-- Realizar un análisis descriptivo de los datos utilizados
-
-- Utilizar gráficos para visualizar una mayor compresión de los datos de entrenamiento.
-
-- Evaluar los modelos de Machine Learning utilizados seleccionando aquel con mayor precisión. 
-
+- ETL, EDA, Data Viz y ML
+- Prediccion con 70% de fiabilidad de la enfermedad de Alzheimer
 
 ## Tecnologías Utilizadas
 - Python
