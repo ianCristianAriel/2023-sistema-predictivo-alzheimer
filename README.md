@@ -12,10 +12,18 @@
     │
     ├── notebooks # Notebook's and Script's
     │ └── models # .PKL of the best ML model
+    |   |   └── best_model.pkl
+    |   |
+    │   |-- 1_etl.ipynb #dat ETL
+    |   |__ 2_eda_enrichment_pre_prosesing.ipynb
+    |   |__ 3_data_viz.ipynb
+    |   |__ 4_auto_sklearn.ipynb
     │
     ├── .gitignore # File contain file's to ignoring for git
     │
     ├── requerimientos.txt # Packages and dependencies
+    |
+    │-- LISENSE.md
     │
     └── README.md # This file
 
