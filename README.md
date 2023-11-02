@@ -6,18 +6,18 @@
 
     Sistema Predictivo de Alzheimer
     │
-    ├── datos
-    │ ├── procesados # CSV procesados
-    │ └── brutos # CSV originales
+    ├── data # CSV's
+    │ ├── processed # Clean CSV's
+    │ └── raw # Original CSV's
     │
-    ├── notebooks # Notebooks y Scripts
-    │ └── limpios # Fraccionados por etapa del proyecto
+    ├── notebooks # Notebook's and Script's
+    │ └── models # .PKL of the best ML model
     │
-    ├── .gitignore # Archivos a ignorar por Git
+    ├── .gitignore # File contain file's to ignoring for git
     │
-    ├── requerimientos.txt # Paquetes y dependencias
+    ├── requerimientos.txt # Packages and dependencies
     │
-    └── README.md # Detalles por escrito
+    └── README.md # This file
 
 
 ## Funciones y Aplicaciones
