@@ -1,0 +1,1 @@
+Derechos reservados para la utilizacion del dataset descritos en la siguiente pagina: https://adni.loni.usc.edu/data-samples/access-data/
