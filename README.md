@@ -19,9 +19,9 @@
     |   |__ 3_data_viz.ipynb
     |   |__ 4_auto_sklearn.ipynb
     │
-    ├── .gitignore # File contain file's to ignoring for git
+    ├── .gitignore
     │
-    ├── requerimientos.txt # Packages and dependencies
+    ├── requerimientos.txt 
     |
     │-- LISENSE.md
     │
