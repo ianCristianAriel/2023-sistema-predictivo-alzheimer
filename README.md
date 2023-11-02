@@ -17,13 +17,12 @@
     │   |-- 1_etl.ipynb #dat ETL
     |   |__ 2_eda_enrichment_pre_prosesing.ipynb
     |   |__ 3_data_viz.ipynb
-    |   |__ 4_auto_sklearn.ipynb
     │
     ├── .gitignore
     │
-    ├── requerimientos.txt 
+    ├── REQUIREMENTS.txt
     |
-    │-- LISENSE.md
+    │-- LICENSE.md
     │
     └── README.md # This file
 
