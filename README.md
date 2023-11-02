@@ -1,9 +1,6 @@
 ## Estado del Proyecto
 **Finalizado**
 
-### Presentcion del proyecto
-[Reunion de exposicion, **martes 31/10/23**](https://drive.google.com/file/d/1dbK42t-68MLVNwFlm56UufAlBa1XRli4/view?usp=sharing)
-
 ## Estructura de Directorios y Archivos Resultantes
 
 
