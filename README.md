@@ -29,7 +29,7 @@
 
 ## Funciones y Aplicaciones
 - ETL, EDA, Data Viz y ML
-- Prediccion con 70% de fiabilidad de la enfermedad de Alzheimer
+- Prediccion entre el 65% y 70% de fiabilidad de la enfermedad de Alzheimer utilizando edad, nivel cognitivo y presencia de gen apoe 4
 
 ### Explicacion
 - [Reunion de explicacion, 31/10/23](https://drive.google.com/file/d/1dbK42t-68MLVNwFlm56UufAlBa1XRli4/view)
