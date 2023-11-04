@@ -14,7 +14,7 @@
     │ └── models # .PKL of the best ML model
     |   |   └── best_model.pkl
     |   |
-    │   |-- 1_etl.ipynb #dat ETL
+    │   |-- 1_etl.ipynb 
     |   |__ 2_eda_enrichment_pre_prosesing.ipynb
     |   |__ 3_data_viz.ipynb
     │
