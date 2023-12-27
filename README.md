@@ -1,14 +1,7 @@
-<!-- language: lang-none 
-                                                                                                               
-                                                                                                               
-    .    .     .                                   .                                            .              
-   / \   |     |          o                        |   o                                 o     _|_             
-  /___\  | ---.|--. .-.   .  .--.--. .-. .--.   .-.|   .  .--. .-. .-.  .--. .-.   .--.  .  .--.|  .-. .--.--. 
- /     \ |  .' |  |(.-'   |  |  |  |(.-' |     (   |   |  `--.(.-'(   ) `--.(.-'   `--.  |  `--.| (.-' |  |  | 
-'       ``-'---'  `-`--'-' `-'  '  `-`--''      `-'`--' `-`--' `--'`-'`-`--' `--'  `--'-' `-`--'`-'`--''  '  `-
-                                                                                                               
-                                                                                                               
--->
+<p align="center">
+  <img src="./data/images/ALZHEIMER DISEASE SISTEM ACCI TITLE.png" alt="image in ASCII text">
+</p>
+
 
 ## Estado del Proyecto
 - **Finalizado**
